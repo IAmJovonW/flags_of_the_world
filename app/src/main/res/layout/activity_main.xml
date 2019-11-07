@@ -30,7 +30,7 @@
         android:id="@+id/FlagScroller"
         android:layout_width="170dp"
         android:layout_height="100dp"
-        app:srcCompat="@drawable/flag-of-United-States-of-America"
+        android:paddingBottom="10dp"
         tools:srcCompat="@drawable/USFlag170100">
 
     </ImageView>
